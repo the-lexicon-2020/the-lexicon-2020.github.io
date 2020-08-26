@@ -27,7 +27,7 @@ Professor [James Pustejovsky](mailto:jamesp@cs.brandeis.edu)
 
 **Date** | **Topic** | **Readings** | **Aditional notes**
 -------- | --------- | ------------ | ------------------- 
-08/27 | | | 
+08/27 |this is a test | | 
 *08/28* | recitation | |
 09/01 | | |
 09/03 | | |
