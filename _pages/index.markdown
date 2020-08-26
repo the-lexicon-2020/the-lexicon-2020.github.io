@@ -15,51 +15,52 @@ In this course we address the following questions:
 
 We examine how current linguistic frameworks model the interaction between the lexicon and syntax and semantics. In the process, we outline and develop a principled account of lexical structure and design, and a dynamic interpretation of the lexicon within linguistic theory. The resulting view is data-oriented and generally theory-neutral while making a strong claim for specific, generatively oriented principles characterizing the behavior of words and the concepts they denote. 
 
-The detailed **syllabus** can be accessed *here*.
+The detailed **syllabus** can be accessed [here](https://brandeis.box.com/s/551n3o6xtn74ddla3xon3qet57cah933).
 
 ## Textbook
 Pustejovsky, J., & Batiukova, O. (2019). The Lexicon. Cambridge: Cambridge University Press. [http://doi.org/10.1017/9780511982378](http://doi.org/10.1017/9780511982378)
 
 ## Instructor
-Professor [James Pustejovsky](mailto:jamesp@cs.brandeis.edu)
+Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 
 # Schedule
+(subject to change)
 
 **Date** | **Topic** | **Readings** | **Aditional notes**
 -------- | --------- | ------------ | ------------------- 
-08/27 |this is a test | | 
-*08/28* | recitation | |
-09/01 | | |
-09/03 | | |
-*09/04* | recitation | |
-09/08 | | |
-*09/11* | recitation | |
-09/15 | | |
-09/17 | | |
-*09/18* | recitation | |
-09/22 | | |
-09/24 | | |
-*09/25* | recitation
-09/29 | | |
-10/01 | | |
-*10/02* | recitation | |
-10/06 | | |
-10/08 | | |
-*10/09* | recitation | |
-10/13 | | |
-10/15 | | |
-*10/16* | recitation | |
-10/20 | | |
-10/22 | | |
-*10/23* | recitation | |
-10/27 | | |
-10/29 | | |
-*10/30* | recitation | |
-11/03 | | |
-11/05 | | |
-*11/06* | recitation | |
-11/10 | | |
-11/12 | | |
-*11/13* | recitation | |
-12/01 | | |
-12/02 | | |
+08/27 | What is a Lexicon? | P&B ch. 1 | 
+*08/28* | *recitation* | |
+09/01 | What is a Lexicon? | P&B ch. 1 |
+09/03 | Relation between Lexicon and Syntax | P&B ch. 2 |
+*09/04* | *recitation* | |
+09/08 | Relation between Lexicon and Syntax | P&B ch. 2 |
+*09/11* | *recitation* | |
+09/15 | Relation between Lexicon and Semantics | P&B ch. 4 |
+09/17 | Relation between Lexicon and Semantics | P&B ch. 4 |
+*09/18* | *recitation* | |
+09/22 | Lexicon in Syntactic Frameworks | P&B ch. 3 |
+09/24 | Lexicon in Syntactic Frameworks | P&B ch. 3 |
+*09/25* | *recitation* | |
+09/29 | Lexicon in Semantic Frameworks | P&B ch. 5 |
+10/01 | Lexicon in Semantic Frameworks | P&B ch. 5 |
+*10/02* | *recitation* | |
+10/06 | Structure of a Lexical Entry 1 - Argument Structure | P&B ch. 6,8 |
+10/08 | Structure of a Lexical Entry 1 - Argument Structure | P&B ch. 6,8 |
+*10/09* | *recitation* | |
+10/13 | Structure of a Lexical Entry 2 - Event Structure | P&B ch. 6,9 |
+10/15 | Structure of a Lexical Entry 2 - Event Structure | P&B ch. 6,9 |
+*10/16* | *recitation* | |
+10/20 | Structure of a Lexical Entry 3 - Semantic Typing, Conceptual Structure | P&B ch. 7 |
+10/22 | Structure of a Lexical Entry 3 - Semantic Typing, Conceptual Structure | P&B ch. 7 |
+*10/23* | *recitation* | |
+10/27 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
+10/29 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
+*10/30* | *recitation* | |
+11/03 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
+11/05 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
+*11/06* | *recitation* | |
+11/10 | Compositionality 2: Coercion, Type Shifting, Constructions, Metaphor | P&B ch. 11 |
+11/12 | Compositionality 2: Coercion, Type Shifting, Constructions, Metaphor | P&B ch. 11 |
+*11/13* | *recitation* | |
+12/01 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
+12/02 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
