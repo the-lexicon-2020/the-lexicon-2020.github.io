@@ -28,8 +28,8 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 
 **Date** | **Topic** | **Readings** | **Aditional notes**
 -------- | --------- | ------------ | ------------------- 
-08/27 | What is a Lexicon? | P&B ch. 1 | 
-*08/28* | *recitation* | |
+08/27 | The mental lexicon. Lexical entries in dictionaries. Syntactically relevant features of lexical items. | P&B ch. 1,2 | [Slides](https://brandeis.box.com/s/6mnhejmgal0u3kygtaoxanapbioszcde)
+*08/28* | *recitation: empirical data in lexicon research* | |
 09/01 | What is a Lexicon? | P&B ch. 1 |
 09/03 | Relation between Lexicon and Syntax | P&B ch. 2 |
 *09/04* | *recitation* | |
