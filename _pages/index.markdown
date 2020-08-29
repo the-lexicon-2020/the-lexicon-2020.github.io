@@ -29,38 +29,38 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 **Date** | **Topic** | **Readings** | **Aditional notes**
 -------- | --------- | ------------ | ------------------- 
 08/27 | The mental lexicon. Lexical entries in dictionaries. Syntactically relevant features of lexical items. | P&B ch. 1,2 | [Slides](https://brandeis.box.com/s/6mnhejmgal0u3kygtaoxanapbioszcde)
-*08/28* | *recitation: empirical data in lexicon research* | |
+*08/28* | *Recitation: Empirical data in lexicon research* | P&B 1.6 | [Worksheet](https://docs.google.com/document/d/1vFbrCCpRZ4KV9iBO0GW2L9hJhyBtkunEA9vu0lqEMt4/edit#)
 09/01 | What is a Lexicon? | P&B ch. 1 |
 09/03 | Relation between Lexicon and Syntax | P&B ch. 2 |
-*09/04* | *recitation* | |
+*09/04* | *Recitation* | |
 09/08 | Relation between Lexicon and Syntax | P&B ch. 2 |
-*09/11* | *recitation* | |
+*09/11* | *Recitation* | |
 09/15 | Relation between Lexicon and Semantics | P&B ch. 4 |
 09/17 | Relation between Lexicon and Semantics | P&B ch. 4 |
-*09/18* | *recitation* | |
+*09/18* | *Recitation* | |
 09/22 | Lexicon in Syntactic Frameworks | P&B ch. 3 |
 09/24 | Lexicon in Syntactic Frameworks | P&B ch. 3 |
-*09/25* | *recitation* | |
+*09/25* | *Recitation* | |
 09/29 | Lexicon in Semantic Frameworks | P&B ch. 5 |
 10/01 | Lexicon in Semantic Frameworks | P&B ch. 5 |
-*10/02* | *recitation* | |
+*10/02* | *Recitation* | |
 10/06 | Structure of a Lexical Entry 1 - Argument Structure | P&B ch. 6,8 |
 10/08 | Structure of a Lexical Entry 1 - Argument Structure | P&B ch. 6,8 |
-*10/09* | *recitation* | |
+*10/09* | *Recitation* | |
 10/13 | Structure of a Lexical Entry 2 - Event Structure | P&B ch. 6,9 |
 10/15 | Structure of a Lexical Entry 2 - Event Structure | P&B ch. 6,9 |
-*10/16* | *recitation* | |
+*10/16* | *Recitation* | |
 10/20 | Structure of a Lexical Entry 3 - Semantic Typing, Conceptual Structure | P&B ch. 7 |
 10/22 | Structure of a Lexical Entry 3 - Semantic Typing, Conceptual Structure | P&B ch. 7 |
-*10/23* | *recitation* | |
+*10/23* | *Recitation* | |
 10/27 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
 10/29 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
-*10/30* | *recitation* | |
+*10/30* | *Recitation* | |
 11/03 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
 11/05 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
-*11/06* | *recitation* | |
+*11/06* | *Recitation* | |
 11/10 | Compositionality 2: Coercion, Type Shifting, Constructions, Metaphor | P&B ch. 11 |
 11/12 | Compositionality 2: Coercion, Type Shifting, Constructions, Metaphor | P&B ch. 11 |
-*11/13* | *recitation* | |
+*11/13* | *Recitation* | |
 12/01 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
 12/02 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
