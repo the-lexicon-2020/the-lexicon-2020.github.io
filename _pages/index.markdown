@@ -30,10 +30,10 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 -------- | --------- | ------------ | ------------------- 
 08/27 | The mental lexicon. Lexical entries in dictionaries. Syntactically relevant features of lexical items. | P&B ch. 1,2 | [Slides](https://brandeis.box.com/s/6mnhejmgal0u3kygtaoxanapbioszcde)
 *08/28* | *Recitation: Empirical data in lexicon research* | *P&B 1.6* | *[Slides](https://brandeis.box.com/s/syhu9c3z7vxkb0n5gzi66425td9s1xsh),[Worksheet](https://docs.google.com/document/d/1vFbrCCpRZ4KV9iBO0GW2L9hJhyBtkunEA9vu0lqEMt4/edit#)*
-09/01 | Lexicon in Syntactic Frameworks | P&B ch. 3 | [Slides](https://brandeis.box.com/s/0vch4buo5p7yzweji2afc26763tqkjl8)
-09/03 | Relation between Lexicon and Syntax | P&B ch. 2 |
-*09/04* | *Recitation* | |
-09/08 | Relation between Lexicon and Syntax | P&B ch. 2 |
+09/01 | Lexicon in Syntactic Frameworks - 1st part | P&B ch. 3 | [Slides](https://brandeis.box.com/s/0vch4buo5p7yzweji2afc26763tqkjl8)
+09/03 | Lexicon in Syntactic Frameworks - historical background | P&B ch. 3 |
+*09/04* | *Recitation: Exploring [Sketch Engine](https://www.sketchengine.eu/)* | |
+09/08 | Lexicon in Syntactic Frameworks - 2nd part | P&B ch. 3 |
 *09/11* | *Recitation* | |
 09/15 | Relation between Lexicon and Semantics | P&B ch. 4 |
 09/17 | Relation between Lexicon and Semantics | P&B ch. 4 |
