@@ -34,7 +34,7 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 09/03 | Lexicon in Syntactic Frameworks - historical background | P&B ch. 3 |
 *09/04* | *Recitation: Exploring [Sketch Engine](https://www.sketchengine.eu/)* | |
 09/08 | Lexicon in Syntactic Frameworks - 2nd part | P&B ch. 3 |
-*09/11* | *Recitation* | |
+*09/11* | *Recitation: Exploring [Unified Verb Index](https://uvi.colorado.edu/uvi_search)* | | *[Slides](https://brandeis.box.com/s/0t165visgr9axypuebb3vhtyrfdhp7ad), [PS 1](https://docs.google.com/document/d/18MGhXRHWBgnZTJQtbnAYr7poOAGJQ45VxAfoOBwPgo8/edit)*
 09/15 | Relation between Lexicon and Semantics | P&B ch. 4 |
 09/17 | Relation between Lexicon and Semantics | P&B ch. 4 |
 *09/18* | *Recitation* | |
