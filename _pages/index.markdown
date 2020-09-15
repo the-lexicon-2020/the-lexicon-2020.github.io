@@ -38,8 +38,8 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 09/15 | Lexicon in Syntactic Frameworks - 3rd part | P&B ch. 3 |
 09/17 | Lexicon in Semantic Frameworks | P&B ch. 4,5 | [Slides](https://brandeis.box.com/s/xyzyl67uvba0cu3kug9exdp3kr6eidex)
 *09/18* | *Recitation* | |
-09/22 | Lexicon in Semantic Frameworks | P&B ch. 3 |
-09/24 | Lexicon in Semantic Frameworks | P&B ch. 3 |
+09/22 | Lexicon in Semantic Frameworks | P&B ch. 4,5 |
+09/24 | Lexicon in Semantic Frameworks | P&B ch. 4,5 |
 *09/25* | *Recitation* | |
 09/29 | Lexicon in Semantic Frameworks | P&B ch. 5 |
 10/01 | Lexicon in Semantic Frameworks | P&B ch. 5 |
