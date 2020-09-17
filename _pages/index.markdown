@@ -37,7 +37,7 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 *09/11* | *Recitation: Exploring [Unified Verb Index](https://uvi.colorado.edu/uvi_search)* | | *[Slides](https://brandeis.box.com/s/0t165visgr9axypuebb3vhtyrfdhp7ad), [PS 1](https://docs.google.com/document/d/18MGhXRHWBgnZTJQtbnAYr7poOAGJQ45VxAfoOBwPgo8/edit)*
 09/15 | Lexicon in Syntactic Frameworks - 3rd part | P&B ch. 3 |
 09/17 | Lexicon in Semantic Frameworks | P&B ch. 4,5 | [Slides](https://brandeis.box.com/s/xyzyl67uvba0cu3kug9exdp3kr6eidex)
-*09/18* | *Recitation* | |
+*09/18* | *Recitation: Entailment, presupposition, * | *[Potts 2015](https://brandeis.box.com/s/n6vpo4vhi1goc5ic9atnqwhia5vmu3fz)* |
 09/22 | Lexicon in Semantic Frameworks | P&B ch. 4,5 |
 09/24 | Lexicon in Semantic Frameworks | P&B ch. 4,5 |
 *09/25* | *Recitation* | |
