@@ -41,8 +41,8 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 09/22 | Lexicon in Semantic Frameworks (2nd part). Structure of a Lexical Entry 1 - Argument Structure (1st part) | P&B ch. 5,6,8 | [Slides](https://brandeis.box.com/s/4c036kjff65j5rfk7cb27bqylxftsaus)
 09/24 | Structure of a Lexical Entry 1 - Argument Structure (2nd part) | P&B ch. 8 |
 *09/25* | *Recitation* | |
-09/29 | Structure of a Lexical Entry 1 - Argument Structure | P&B ch. 6 |
-10/01 | Structure of a Lexical Entry 1 - Argument Structure | P&B ch. 6 |
+09/29 | Structure of a Lexical Entry 1 - Argument Structure | P&B ch. 6,8 |
+10/01 | Structure of a Lexical Entry 1 - Argument Structure | P&B ch. 6,8 |
 *10/02* | *Recitation* | |
 10/06 | Structure of a Lexical Entry 1 - Argument Structure | P&B ch. 6,8 |
 10/08 | Structure of a Lexical Entry 1 - Argument Structure | P&B ch. 6,8 |
