@@ -50,17 +50,17 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 10/13 | Structure of a Lexical Entry - Qualia Structure | P&B ch. 7, QS papers |
 10/15 | Structure of a Lexical Entry - Qualia Structure | P&B ch. 7, QS papers |
 *10/16* | *Recitation* | |
-10/20 | Structure of a Lexical Entry - Semantic Typing, Conceptual Structure | P&B ch. 7 |
-10/22 | Structure of a Lexical Entry - Semantic Typing, Conceptual Structure | P&B ch. 7 |
+10/20 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
+10/22 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
 *10/23* | *Recitation* | |
-10/27 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
-10/29 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
+10/27 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
+10/29 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
 *10/30* | *Recitation* | |
-11/03 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
-11/05 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
+11/03 | Compositionality 2:  Type Shifting | P&B ch. 11 |
+11/05 | Compositionality 2: Coercion  | P&B ch. 11 |
 *11/06* | *Recitation* | |
-11/10 | Compositionality 2: Coercion, Type Shifting, Constructions, Metaphor | P&B ch. 11 |
-11/12 | Compositionality 2: Coercion, Type Shifting, Constructions, Metaphor | P&B ch. 11 |
+11/10 | Compositionality 2: Cocomposition | P&B ch. 11 |
+11/12 | Compositionality 2: Constructions, Metaphor | P&B ch. 11 |
 *11/13* | *Recitation* | |
 12/01 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
 12/02 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
