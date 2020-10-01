@@ -41,9 +41,9 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 09/22 | Lexicon in Semantic Frameworks (2nd part). Structure of a Lexical Entry  - Argument Structure (1st part) | P&B ch. 5,6,8 | [Slides](https://brandeis.box.com/s/4c036kjff65j5rfk7cb27bqylxftsaus)
 09/24 | Structure of a Lexical Entry - Argument Structure (2nd part) | P&B ch. 6, 8 |
 *09/25* | *Recitation: The structure of a lexical entry* | | *[Worksheet](https://docs.google.com/document/d/12uuEb6YRLFqJ1qW37rnO3bKC_pMnVjP8jnKTrT1uvfI/edit?usp=sharing), [PS 2](https://docs.google.com/document/d/1_UngMAJkqNIiUjZSqGHAWIiecWFzoxkHcTL2pReYWdI/edit?usp=sharing)*
-09/29 | Structure of a Lexical Entry - Event Structure (1st part), and semantic typing | P&B ch. 6, 7 |
-10/01 | Structure of a Lexical Entry - Semantic Typing, Conceptual Structure | P&B ch. 7 |
-*10/02* | *Recitation* | |
+09/29 | Structure of a Lexical Entry - Event Structure (1st part), and semantic typing | P&B ch. 6, 7 | [Slides](http://jamespusto.com/wp-content/uploads/2018/08/ESSLLI-2018-Slides-Lecture1-a.pdf)
+10/01 | Structure of a Lexical Entry - Semantic Typing, Conceptual Structure | P&B ch. 7 | [Slides](https://brandeis.box.com/s/6f6axeaxt881yvrrzuub28ouas451zgp)
+*10/02* | *Recitation: Quiz 1 - The Lexicon in Linguistic Theory* | |
 10/06 | Structure of a Lexical Entry - Event Structure (2nd part) | P&B ch. 9 |
 10/08 | Structure of a Lexical Entry - Event Structure (3rd part) | P&B ch. 9 |
 *10/09* | *Recitation* | |
