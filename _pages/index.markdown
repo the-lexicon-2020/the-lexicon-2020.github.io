@@ -44,7 +44,7 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 09/29 | Structure of a Lexical Entry - Event Structure (1st part), and semantic typing | P&B ch. 6, 7 | [Slides](http://jamespusto.com/wp-content/uploads/2018/08/ESSLLI-2018-Slides-Lecture1-a.pdf)
 10/01 | Structure of a Lexical Entry - Semantic Typing, Conceptual Structure | P&B ch. 7 | [Slides](https://brandeis.box.com/s/6f6axeaxt881yvrrzuub28ouas451zgp)
 *10/02* | *Recitation: Quiz 1 - The Lexicon in Linguistic Theory* | |
-10/06 | Structure of a Lexical Entry - Event Structure (2nd part) | P&B ch. 9 |
+10/06 | Structure of a Lexical Entry - Event Structure (2nd part) | P&B ch. 9 | [Slides](http://jamespusto.com/wp-content/uploads/2018/08/ESSLLI-2018-Slides-Lecture1-b.pdf), [Slides (cont.)](http://jamespusto.com/wp-content/uploads/2018/08/ESSLLI-2018-Slides-Lecture2-aa.pdf)
 10/08 | Structure of a Lexical Entry - Event Structure (3rd part) | P&B ch. 9 |
 *10/09* | *Recitation* | |
 10/13 | Structure of a Lexical Entry - Qualia Structure | P&B ch. 7, QS papers |
