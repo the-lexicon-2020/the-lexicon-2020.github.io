@@ -50,7 +50,7 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 10/13 | Structure of a Lexical Entry - Qualia Structure | P&B ch. 7, [QS papers](https://brandeis.box.com/s/wakzq8qzzi5fxjois4gm0v05bsj8kzda) |
 10/15 | Structure of a Lexical Entry - Qualia Structure | P&B ch. 7, QS papers |
 *10/16* | *Recitation: Application of Qualia Structure in task-oriented dialog systems* | |
-10/20 | Structure of a Lexical Entry - Dynamic Event Structure | P&B ch. 9, DES papers | [Slides]()
+10/20 | Structure of a Lexical Entry - Dynamic Event Structure | P&B ch. 9, DES papers | [Slides](https://brandeis.box.com/s/sudcbnxi55rwdko6u67ddnl9l2hvr86w)
 10/22 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
 *10/23* | *Recitation* | |
 10/27 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
