@@ -61,6 +61,9 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 *11/06* | *Recitation* | | PS 4
 11/10 | Compositionality 2: Cocomposition | P&B ch. 11 |
 11/12 | Compositionality 2: Constructions, Metaphor | P&B ch. 11 |
-*11/13* | *Recitation* | | Research assignment
-12/01 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
-12/02 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
+*11/13* | *Recitation* | |
+11/17 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
+11/19 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
+*11/20* | *Recitation* | | Research assignment
+12/01 | | |
+12/03 | | |
