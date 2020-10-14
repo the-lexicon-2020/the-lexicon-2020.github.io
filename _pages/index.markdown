@@ -47,7 +47,7 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 10/06 | Structure of a Lexical Entry - Event Structure (2nd part) | P&B ch. 9 | [Slides](http://jamespusto.com/wp-content/uploads/2018/08/ESSLLI-2018-Slides-Lecture1-b.pdf), [Slides (cont.)](http://jamespusto.com/wp-content/uploads/2018/08/ESSLLI-2018-Slides-Lecture2-aa.pdf)
 10/08 | Structure of a Lexical Entry - Event Structure (3rd part) | P&B ch. 9 |
 *10/09* | *Recitation: Exploring TimeML - TempEval-2 training data* | [P&S (2012)](https://www.oreilly.com/library/view/natural-language-annotation/9781449332693/) ch. 10,11 | [Worksheet](https://docs.google.com/document/d/1gP2-73TOQqEwuIBDV1K8E2-dxft5WwuXw_mjqhjnsBo/edit?usp=sharing)
-10/13 | Structure of a Lexical Entry - Qualia Structure | P&B ch. 7, [QS papers](https://brandeis.box.com/s/wakzq8qzzi5fxjois4gm0v05bsj8kzda) |
+10/13 | Structure of a Lexical Entry - Qualia Structure | P&B ch. 7, [QS papers](https://brandeis.box.com/s/wakzq8qzzi5fxjois4gm0v05bsj8kzda) | [Slides](http://gl-tutorials.org/wp-content/uploads/2017/07/2017-Lecture2-July-18th-as-given.pdf)
 10/15 | Structure of a Lexical Entry - Qualia Structure | P&B ch. 7, QS papers |
 *10/16* | *Recitation: Application of Qualia Structure in task-oriented dialog systems* | |
 10/20 | Structure of a Lexical Entry - Dynamic Event Structure | P&B ch. 9, DES papers | [Slides](https://brandeis.box.com/s/sudcbnxi55rwdko6u67ddnl9l2hvr86w)
