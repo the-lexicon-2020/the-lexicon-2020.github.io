@@ -53,17 +53,17 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 10/20 | Structure of a Lexical Entry - Dynamic Event Structure | P&B ch. 9, DES papers | [Slides](https://brandeis.box.com/s/sudcbnxi55rwdko6u67ddnl9l2hvr86w)
 10/22 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
 *10/23* | *Recitation: Quiz 2 - Lexical Structures* | |
-10/27 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
+10/27 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
 10/29 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
 *10/30* | *Recitation* | |
-11/03 | Compositionality 2:  Type Shifting | P&B ch. 11 |
-11/05 | Compositionality 2: Coercion  | P&B ch. 11 |
+11/03 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
+11/05 | Compositionality 2:  Type Shifting | P&B ch. 11 |
 *11/06* | *Recitation* | | PS 4
-11/10 | Compositionality 2: Cocomposition | P&B ch. 11 |
-11/12 | Compositionality 2: Constructions, Metaphor | P&B ch. 11 |
+11/10 | Compositionality 2: Coercion  | P&B ch. 11 |
+11/12 | Compositionality 2: Cocomposition | P&B ch. 11 |
 *11/13* | *Recitation* | |
-11/17 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
+11/17 | Compositionality 2: Constructions, Metaphor | P&B ch. 11 |
 11/19 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
 *11/20* | *Recitation* | | Research assignment
-12/01 | | |
+12/01 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
 12/03 | | |
