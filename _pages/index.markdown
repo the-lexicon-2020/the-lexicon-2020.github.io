@@ -47,23 +47,23 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 10/06 | Structure of a Lexical Entry - Event Structure (2nd part) | P&B ch. 9 | [Slides](http://jamespusto.com/wp-content/uploads/2018/08/ESSLLI-2018-Slides-Lecture1-b.pdf), [Slides (cont.)](http://jamespusto.com/wp-content/uploads/2018/08/ESSLLI-2018-Slides-Lecture2-aa.pdf)
 10/08 | Structure of a Lexical Entry - Event Structure (3rd part) | P&B ch. 9 |
 *10/09* | *Recitation: Exploring TimeML - TempEval-2 training data* | *[P&S (2012)](https://www.oreilly.com/library/view/natural-language-annotation/9781449332693/) ch. 10,11* | *[Worksheet](https://docs.google.com/document/d/1gP2-73TOQqEwuIBDV1K8E2-dxft5WwuXw_mjqhjnsBo/edit?usp=sharing)*
-10/13 | Structure of a Lexical Entry - Qualia Structure | P&B ch. 7, [QS papers](https://brandeis.box.com/s/wakzq8qzzi5fxjois4gm0v05bsj8kzda) | [Slides](http://gl-tutorials.org/wp-content/uploads/2017/07/2017-Lecture2-July-18th-as-given.pdf)
-10/15 | Structure of a Lexical Entry - Qualia Structure | P&B ch. 7, QS papers |
+10/13 | Structure of a Lexical Entry - Qualia Structure (1st part) | P&B ch. 7, [QS paper](https://brandeis.box.com/s/wakzq8qzzi5fxjois4gm0v05bsj8kzda) | [Slides](http://gl-tutorials.org/wp-content/uploads/2017/07/2017-Lecture2-July-18th-as-given.pdf)
+10/15 | Structure of a Lexical Entry - Qualia Structure (2nd part) | P&B ch. 7, QS paper |
 *10/16* | *Recitation: Lexical structure* | | *[Worksheet](https://docs.google.com/document/d/1cx93Tzv0S4uXHlAsYl7dKEOChMGanwpgu1NuvjbZH9Y/edit), [PS3](https://docs.google.com/document/d/1kzQ6gSph9wdgqmopF4dcl16JFxbMVzBOEHhGE6wGMpY/edit?usp=sharing)*
-10/20 | Structure of a Lexical Entry - Dynamic Event Structure | P&B ch. 9, DES papers | [Slides](https://brandeis.box.com/s/sudcbnxi55rwdko6u67ddnl9l2hvr86w)
-10/22 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
+10/20 | Structure of a Lexical Entry - Qualia Structure (3rd part) | P&B ch. 7, QS paper |
+10/22 | Structure of a Lexical Entry - Dynamic Event Structure | P&B ch. 9, [DES paper 1](https://brandeis.box.com/s/aamtq407oqa6t5tigd1cvvuhr0w8g87m), [DES paper 2](https://www.aclweb.org/anthology/W13-5401/) | [Slides](https://brandeis.box.com/s/sudcbnxi55rwdko6u67ddnl9l2hvr86w)
 *10/23* | *Recitation* | |
 10/27 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
-10/29 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
+10/29 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
 *10/30* | *Recitation: Quiz 2 - Lexical Structures* | |
 11/03 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
-11/05 | Compositionality 2:  Type Shifting | P&B ch. 11 |
+11/05 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
 *11/06* | *Recitation* | | PS 4
-11/10 | Compositionality 2: Coercion  | P&B ch. 11 |
-11/12 | Compositionality 2: Cocomposition | P&B ch. 11 |
+11/10 | Compositionality 2:  Type Shifting | P&B ch. 11 |
+11/12 | Compositionality 2: Coercion  | P&B ch. 11 |
 *11/13* | *Recitation* | |
-11/17 | Compositionality 2: Constructions, Metaphor | P&B ch. 11 |
-11/19 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
+11/17 | Compositionality 2: Cocomposition | P&B ch. 11 |
+11/19 | Compositionality 2: Constructions, Metaphor | P&B ch. 11 |
 *11/20* | *Recitation* | | Research assignment
 12/01 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
-12/03 | | |
+12/03 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
