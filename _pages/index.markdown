@@ -52,7 +52,7 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 *10/16* | *Recitation: Lexical structure* | | *[Worksheet](https://docs.google.com/document/d/1cx93Tzv0S4uXHlAsYl7dKEOChMGanwpgu1NuvjbZH9Y/edit), [PS3](https://docs.google.com/document/d/1kzQ6gSph9wdgqmopF4dcl16JFxbMVzBOEHhGE6wGMpY/edit?usp=sharing)*
 10/20 | Structure of a Lexical Entry - Qualia Structure (3rd part) | P&B ch. 7, QS paper |
 10/22 | Structure of a Lexical Entry - Dynamic Event Structure | P&B ch. 9, [DES paper 1](https://brandeis.box.com/s/aamtq407oqa6t5tigd1cvvuhr0w8g87m), [DES paper 2](https://www.aclweb.org/anthology/W13-5401/) | [Slides](https://brandeis.box.com/s/sudcbnxi55rwdko6u67ddnl9l2hvr86w)
-*10/23* | *Recitation* | |
+*10/23* | *Recitation: Dynamic event structure* | | *[Worksheet](https://docs.google.com/document/d/1aNJ8DfiC7BE0s-oLoS6EhgG1RC27l41BM_mii2DWqXI/edit?usp=sharing)*
 10/27 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
 10/29 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
 *10/30* | *Recitation: Quiz 2 - Lexical Structures* | |
