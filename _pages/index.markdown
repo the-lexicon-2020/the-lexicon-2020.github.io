@@ -56,7 +56,7 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 10/27 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 | [Slides](https://brandeis.box.com/s/xbl1rqqrpo61lrlcu65mz2ov3f4yrypo)
 10/29 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
 *10/30* | *Recitation: Quiz 2 - Lexical Structures* | |
-11/03 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
+11/03 | Compositionality 1: The Mapping from Lexicon to Syntax (no Zoom meeting) | P&B ch. 10 |
 11/05 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 10 |
 *11/06* | *Recitation* | | PS 4
 11/10 | Compositionality 2:  Type Shifting | P&B ch. 11 |
