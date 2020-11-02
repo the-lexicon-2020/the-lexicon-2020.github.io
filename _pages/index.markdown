@@ -53,12 +53,12 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 10/20 | Structure of a Lexical Entry - Qualia Structure (3rd part) | P&B ch. 7, QS paper |
 10/22 | Structure of a Lexical Entry - Dynamic Event Structure | P&B ch. 9, [DES paper 1](https://brandeis.box.com/s/aamtq407oqa6t5tigd1cvvuhr0w8g87m), [DES paper 2](https://www.aclweb.org/anthology/W13-5401/) | [Slides](https://brandeis.box.com/s/sudcbnxi55rwdko6u67ddnl9l2hvr86w)
 *10/23* | *Recitation: Dynamic event structure* | | *[Worksheet](https://docs.google.com/document/d/1aNJ8DfiC7BE0s-oLoS6EhgG1RC27l41BM_mii2DWqXI/edit?usp=sharing)*
-10/27 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 | [Slides](https://brandeis.box.com/s/xbl1rqqrpo61lrlcu65mz2ov3f4yrypo)
-10/29 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies | P&B ch. 10 |
+10/27 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies (1st part) | P&B ch. 10 | [Slides](https://brandeis.box.com/s/xbl1rqqrpo61lrlcu65mz2ov3f4yrypo)
+10/29 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies (2nd part) | P&B ch. 10 |
 *10/30* | *Recitation: Quiz 2 - Lexical Structures* | |
-11/03 | Compositionality 1: The Mapping from Lexicon to Syntax (no Zoom meeting) | P&B ch. 11 |
-11/05 | Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 11 |
-*11/06* | *Recitation* | | PS 4
+11/03 | Open office hours | |
+11/05 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies (3rd part). Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 11 |
+*11/06* | *Recitation: General architecture of the lexicon* | | PS 4
 11/10 | Compositionality 2:  Type Shifting | P&B ch. 11 |
 11/12 | Compositionality 2: Coercion  | P&B ch. 11 |
 *11/13* | *Recitation* | |
