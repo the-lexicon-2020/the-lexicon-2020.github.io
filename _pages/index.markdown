@@ -15,7 +15,7 @@ In this course we address the following questions:
 
 We examine how current linguistic frameworks model the interaction between the lexicon and syntax and semantics. In the process, we outline and develop a principled account of lexical structure and design, and a dynamic interpretation of the lexicon within linguistic theory. The resulting view is data-oriented and generally theory-neutral while making a strong claim for specific, generatively oriented principles characterizing the behavior of words and the concepts they denote. 
 
-The detailed **syllabus** can be accessed [here](https://brandeis.box.com/s/551n3o6xtn74ddla3xon3qet57cah933).
+The detailed **syllabus** can be accessed [here](https://brandeis.box.com/s/jmqets85ubjh402068b0y0v6bq5cq8bz).
 
 ## Textbook
 Pustejovsky, J., & Batiukova, O. (2019). The Lexicon. Cambridge: Cambridge University Press. [http://doi.org/10.1017/9780511982378](http://doi.org/10.1017/9780511982378)
