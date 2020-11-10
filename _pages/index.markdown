@@ -57,13 +57,13 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 10/29 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies (2nd part) | P&B ch. 10 |
 *10/30* | *Recitation: Quiz 2 - Lexical Structures* | |
 11/03 | Open office hours | |
-11/05 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies (3rd part). Compositionality 1: The Mapping from Lexicon to Syntax | P&B ch. 11 | [Slides](https://brandeis.box.com/s/0ph2b61lfb0m357b5tf8y2ig9rn5t87y)
+11/05 | General Architecture of the Lexicon - Syntactic and Semantic Type Hierarchies (3rd part). Compositionality 1: The Mapping from Lexicon to Syntax (1st part) | P&B ch. 11 | [Slides](https://brandeis.box.com/s/0ph2b61lfb0m357b5tf8y2ig9rn5t87y)
 *11/06* | *Recitation: General architecture of the lexicon* | | *[Worksheet](https://docs.google.com/document/d/1i1_XhILdB6yhWPY67zhAqa3fYN6DmO2fGdqJho9ehSg/edit#), [PS 4](https://docs.google.com/document/d/1PRMf5uh4jreSmFUYVikeimlQRdVNaTtcmSV2LOZd6wo/edit)*
-11/10 | Compositionality 2:  Type Shifting | P&B ch. 11 |
-11/12 | Compositionality 2: Coercion  | P&B ch. 11 |
+11/10 | Compositionality 1: The Mapping from Lexicon to Syntax (2nd part) | P&B ch. 11 |
+11/12 | Compositionality 2:  Type Shifting | P&B ch. 11 |
 *11/13* | *Recitation* | |
-11/17 | Compositionality 2: Cocomposition | P&B ch. 11 |
-11/19 | Compositionality 2: Constructions, Metaphor | P&B ch. 11 |
+11/17 | Compositionality 2: Coercion | P&B ch. 11 |
+11/19 | Compositionality 2: Cocomposition | P&B ch. 11 |
 *11/20* | *Recitation* | | Research assignment
-12/01 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
+12/01 | Compositionality 2: Constructions, Metaphor | P&B ch. 11 |
 12/03 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
