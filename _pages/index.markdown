@@ -61,7 +61,7 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 *11/06* | *Recitation: General architecture of the lexicon* | | *[Worksheet](https://docs.google.com/document/d/1i1_XhILdB6yhWPY67zhAqa3fYN6DmO2fGdqJho9ehSg/edit#), [PS 4](https://docs.google.com/document/d/1PRMf5uh4jreSmFUYVikeimlQRdVNaTtcmSV2LOZd6wo/edit)*
 11/10 | Compositionality 1: The Mapping from Lexicon to Syntax (2nd part) | P&B ch. 11 |
 11/12 | Compositionality 2:  Type Shifting | P&B ch. 11 |
-*11/13* | *Recitation: Typed composition review* | | [Worksheet](https://docs.google.com/document/d/15CVNaLTSZqqcveEaqy1UsyyMm-91gxdJGbnJHrh9lM8/edit?usp=sharing)
+*11/13* | *Recitation: Typed composition review* | | *[Worksheet](https://docs.google.com/document/d/15CVNaLTSZqqcveEaqy1UsyyMm-91gxdJGbnJHrh9lM8/edit?usp=sharing)*
 11/17 | Compositionality 2: Coercion | P&B ch. 11 |
 11/19 | Compositionality 2: Cocomposition | P&B ch. 11 |
 *11/20* | *Recitation* | | Research assignment
