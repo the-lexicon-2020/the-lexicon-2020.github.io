@@ -64,6 +64,5 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 *11/13* | *Recitation: Typed composition review* | | *[Worksheet](https://docs.google.com/document/d/15CVNaLTSZqqcveEaqy1UsyyMm-91gxdJGbnJHrh9lM8/edit?usp=sharing)*
 11/17 | Compositionality 2: Coercion | P&B ch. 11 | [Slides](http://gl-tutorials.org/wp-content/uploads/2017/07/2017-Lecture5-July-21st-as-given.pdf)
 11/19 | Compositionality 2: Cocomposition | P&B ch. 11 |
-*11/20* | *Recitation* | | Research assignment
 12/01 | Compositionality 2: Constructions, Metaphor | P&B ch. 11 |
 12/03 | Lexicon and Discourse - Pragmatics and lexical information | P&B ch. 11 |
