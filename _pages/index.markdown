@@ -28,21 +28,21 @@ Professor [James Pustejovsky](mailto:jamesp@brandeis.edu)
 
 **Date** | **Topic** | **Readings** | **Aditional notes**
 -------- | --------- | ------------ | ------------------- 
-08/27 | The mental lexicon. Lexical entries in dictionaries. Syntactically relevant features of lexical items. | P&B ch. 1,2 | [Slides](https://brandeis.box.com/s/6mnhejmgal0u3kygtaoxanapbioszcde)
-*08/28* | *Recitation: Empirical data in lexicon research* | *P&B 1.6* | *[Slides](https://brandeis.box.com/s/syhu9c3z7vxkb0n5gzi66425td9s1xsh), [Worksheet](https://docs.google.com/document/d/1vFbrCCpRZ4KV9iBO0GW2L9hJhyBtkunEA9vu0lqEMt4/edit#)*
-09/01 | Lexicon in Syntactic Frameworks (1st part) | P&B ch. 3 | [Slides](https://brandeis.box.com/s/0vch4buo5p7yzweji2afc26763tqkjl8), [Group discussion](https://docs.google.com/document/d/1Ot3dWajlfH9-2-xfWBbwf5Bnwn5tlNcU6VLC9aIDKBs/edit)
+08/27 | The mental lexicon. Lexical entries in dictionaries. Syntactically relevant features of lexical items. | P&B ch. 1,2 | [Slides](https://brandeis.box.com/s/hnl89zswh67k9wb07flstb72y2spl8ju)
+*08/28* | *Recitation: Empirical data in lexicon research* | *P&B 1.6* | *[Slides](https://brandeis.box.com/s/4xunwunyqf8c5m9t1kriongbk93gob8n), [Worksheet](https://docs.google.com/document/d/1vFbrCCpRZ4KV9iBO0GW2L9hJhyBtkunEA9vu0lqEMt4/edit#)*
+09/01 | Lexicon in Syntactic Frameworks (1st part) | P&B ch. 3 | [Slides](https://brandeis.box.com/s/alojfkv469fab93rnnxq58uvldak6t2w), [Group discussion](https://docs.google.com/document/d/1Ot3dWajlfH9-2-xfWBbwf5Bnwn5tlNcU6VLC9aIDKBs/edit)
 09/03 | Lexicon in Syntactic Frameworks - historical background | P&B ch. 3 |
 *09/04* | *Recitation: Exploring [Sketch Engine](https://www.sketchengine.eu/)* | |
 09/08 | Lexicon in Syntactic Frameworks (2nd part) | P&B ch. 3 |
-*09/11* | *Recitation: Exploring [Unified Verb Index](https://uvi.colorado.edu/uvi_search)* | | *[Slides](https://brandeis.box.com/s/0t165visgr9axypuebb3vhtyrfdhp7ad), [PS 1](https://docs.google.com/document/d/18MGhXRHWBgnZTJQtbnAYr7poOAGJQ45VxAfoOBwPgo8/edit)*
+*09/11* | *Recitation: Exploring [Unified Verb Index](https://uvi.colorado.edu/uvi_search)* | | *[Slides](https://brandeis.box.com/s/nq2b4ji0si6a2sehgwq3mjz30ax4ux4q), [PS 1](https://docs.google.com/document/d/18MGhXRHWBgnZTJQtbnAYr7poOAGJQ45VxAfoOBwPgo8/edit)*
 09/15 | Lexicon in Syntactic Frameworks (3rd part) | P&B ch. 3 |
-09/17 | Lexicon in Semantic Frameworks (1st part) | P&B ch. 4,5 | [Slides](https://brandeis.box.com/s/xyzyl67uvba0cu3kug9exdp3kr6eidex)
-*09/18* | *Recitation: Entailment, presupposition, and implicature. Semantic factors in the VerbNet style (teamwork)* | *[Potts 2015](https://brandeis.box.com/s/n6vpo4vhi1goc5ic9atnqwhia5vmu3fz), [Pustejovsky & Joshi 2017](https://brandeis.box.com/s/lnmeu9f0e644sbxd01jvdomoibk89r4e)* | *[Worksheet](https://docs.google.com/document/d/17SEvv4aESdcGQcsxrU-_tDXDFUViBxksM5RPjjMEcs4/edit?usp=sharing)*
-09/22 | Lexicon in Semantic Frameworks (2nd part). Structure of a Lexical Entry  - Argument Structure (1st part) | P&B ch. 5,6,8 | [Slides](https://brandeis.box.com/s/4c036kjff65j5rfk7cb27bqylxftsaus)
+09/17 | Lexicon in Semantic Frameworks (1st part) | P&B ch. 4,5 | [Slides](https://brandeis.box.com/s/1hm19vz1zyocd2mhmbfx2x9hxm7kbj54)
+*09/18* | *Recitation: Entailment, presupposition, and implicature. Semantic factors in the VerbNet style (teamwork)* | *[Potts 2015](https://brandeis.box.com/s/bh81fw46u5rb13y0stylbpzhaa010yf4), [Pustejovsky & Joshi 2017](https://brandeis.box.com/s/j6r7kbaf4l9xfw7qmbnlby3g5anhlwrr)* | *[Worksheet](https://docs.google.com/document/d/17SEvv4aESdcGQcsxrU-_tDXDFUViBxksM5RPjjMEcs4/edit?usp=sharing)*
+09/22 | Lexicon in Semantic Frameworks (2nd part). Structure of a Lexical Entry  - Argument Structure (1st part) | P&B ch. 5,6,8 | [Slides](https://brandeis.box.com/s/h0z5imjgvzvdw0kwtzixmgvzb7oudxp5)
 09/24 | Structure of a Lexical Entry - Argument Structure (2nd part) | P&B ch. 6, 8 |
 *09/25* | *Recitation: The structure of a lexical entry* | | *[Worksheet](https://docs.google.com/document/d/12uuEb6YRLFqJ1qW37rnO3bKC_pMnVjP8jnKTrT1uvfI/edit?usp=sharing), [PS 2](https://docs.google.com/document/d/1_UngMAJkqNIiUjZSqGHAWIiecWFzoxkHcTL2pReYWdI/edit?usp=sharing)*
 09/29 | Structure of a Lexical Entry - Event Structure (1st part), and semantic typing | P&B ch. 6, 7 | [Slides](http://jamespusto.com/wp-content/uploads/2018/08/ESSLLI-2018-Slides-Lecture1-a.pdf)
-10/01 | Structure of a Lexical Entry - Semantic Typing, Conceptual Structure | P&B ch. 7 | [Slides](https://brandeis.box.com/s/6f6axeaxt881yvrrzuub28ouas451zgp)
+10/01 | Structure of a Lexical Entry - Semantic Typing, Conceptual Structure | P&B ch. 7 | [Slides](https://brandeis.box.com/s/jq9xaff846btoa1wp8bvg2s6y1tawms0)
 *10/02* | *Recitation: Quiz 1 - The Lexicon in Linguistic Theory* | |
 10/06 | Structure of a Lexical Entry - Event Structure (2nd part) | P&B ch. 9 | [Slides](http://jamespusto.com/wp-content/uploads/2018/08/ESSLLI-2018-Slides-Lecture1-b.pdf), [Slides (cont.)](http://jamespusto.com/wp-content/uploads/2018/08/ESSLLI-2018-Slides-Lecture2-aa.pdf)
 10/08 | Structure of a Lexical Entry - Event Structure (3rd part) | P&B ch. 9 |
